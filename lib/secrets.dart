@@ -1,0 +1,1 @@
+const openWeatherAppId = '75c1230e87abf411ef65e5562fa9c0b9';
